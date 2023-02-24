@@ -37,3 +37,7 @@ When you have created your account and claimed your CCD, you will need to export
 - Where <Your-Wallet-Name> is the name that you want to give to your wallet, which is the name you can use later when interacting with the account through the client.
 - And done, you should see something like this:
 ![image](Screenshot%20(64).png)
+
+## concordium mainnet address
+
+33QWpDeVfHqwk8PBVqVPvoQLNVDXauvig4BhKNTXjjKCGnyjpk
